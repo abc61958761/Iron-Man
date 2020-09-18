@@ -1,16 +1,16 @@
-這系列是我的學習筆記
-主要是針對 NestJs 
-所以大多數講解的會是官網所給的範例
-以及在學習過程中遇到的坑
+這系列是我的學習筆記 </br>
+主要是針對 NestJs </br>
+所以大多數講解的會是官網所給的範例 </br>
+以及在學習過程中遇到的坑 </br>
 
 ## 目標
-能對 NestJs 有簡單的了解
-並且能明白整體架構是如何運行的
-然後結合 GraphQL 資料串接
+能對 NestJs 有簡單的了解 </br>
+並且能明白整體架構是如何運行的 </br>
+然後結合 GraphQL 資料串接 </br>
 
-最後前端使用 VueJs 搭配 Vue Apollo
-接收 GraphQL API 發送
-然後就大功告成！
+最後前端使用 VueJs 搭配 Vue Apollo </br>
+接收 GraphQL API 發送 </br>
+然後就大功告成！ 
 
 ## 開發環境
 - IDE: Visual Studio Code
